@@ -1,0 +1,17 @@
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\obj\Debug\netstandard2.0\JogoGourmet.Controller.csprojAssemblyReference.cache
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\obj\Debug\netstandard2.0\JogoGourmet.Controller.AssemblyInfoInputs.cache
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\obj\Debug\netstandard2.0\JogoGourmet.Controller.AssemblyInfo.cs
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\bin\Debug\netstandard2.0\JogoGourmet.Controller.deps.json
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\bin\Debug\netstandard2.0\JogoGourmet.Controller.dll
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\bin\Debug\netstandard2.0\JogoGourmet.Controller.pdb
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\bin\Debug\netstandard2.0\JogoGourmet.Model.dll
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\bin\Debug\netstandard2.0\JogoGourmet.Model.pdb
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\obj\Debug\netstandard2.0\JogoGourmet.Controller.csproj.CopyComplete
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\obj\Debug\netstandard2.0\JogoGourmet.Controller.dll
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Controller\obj\Debug\netstandard2.0\JogoGourmet.Controller.pdb

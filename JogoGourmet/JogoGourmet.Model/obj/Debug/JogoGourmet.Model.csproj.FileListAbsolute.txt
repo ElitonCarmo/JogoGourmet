@@ -1,0 +1,5 @@
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Model\bin\Debug\JogoGourmet.Model.dll
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Model\bin\Debug\JogoGourmet.Model.pdb
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Model\obj\Debug\JogoGourmet.Model.csprojAssemblyReference.cache
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Model\obj\Debug\JogoGourmet.Model.dll
+C:\Users\elito\OneDrive\Área de Trabalho\JogoGourmetKalango\JogoGourmet\Projeto\JogoGourmet\JogoGourmet.Model\obj\Debug\JogoGourmet.Model.pdb
